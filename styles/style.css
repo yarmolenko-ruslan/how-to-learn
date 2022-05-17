@@ -25,6 +25,8 @@
   margin-bottom: 100px;
 }
 
+/* header */
+
 .header {
   height: 100vh;
   min-height: 600px;
@@ -314,6 +316,11 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: 400;
+}
+
+.footer__column-link {
+  display: flex;
+  align-items: center;
 }
 
 .footer__social-icon {
