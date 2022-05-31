@@ -6,4 +6,5 @@
   background-color: #2f80ed;
   width: 568px;
   height: 568px;
+  animation: rotate 20s linear infinite;
 }
