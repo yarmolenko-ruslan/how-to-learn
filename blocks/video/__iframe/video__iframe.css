@@ -3,6 +3,7 @@
   z-index: 2;
   margin-right: 20px;
   display: block;
+  border: 0;
 }
 
 .video__iframe:last-of-type {
